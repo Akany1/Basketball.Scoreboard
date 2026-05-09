@@ -1,28 +1,97 @@
-# Basketball.Scoreboard
-Built a Basketball Scoreboard web app using HTML, CSS, and JavaScript as a solo project during the Scrimba Full-Stack Developer Path. The app updates scores in real time, highlights the leading team, and demonstrates DOM manipulation, event handling, reusable functions, and UI/UX feedback design.
+# 🏀 Basketball Scoreboard
 
-Basketball Scoreboard is a JavaScript-powered web application that simulates a live basketball scoring system. The project was built from scratch as a solo project while progressing through the JavaScript section of the Scrimba Full-Stack Developer Path.
+A JavaScript-powered Basketball Scoreboard web application built from scratch as a solo project during my progression through the Scrimba Full-Stack Developer Path.
 
-The application allows users to update scores for the Home and Away teams in real time using interactive buttons. As the score changes, the interface dynamically updates the display and visually indicates the leading team, creating a more engaging user experience.
+The application simulates a live basketball scoring system where users can update scores for Home and Away teams in real time. The interface dynamically updates score displays and visually highlights the leading team, creating a more engaging and interactive user experience.
 
-This project demonstrates the use of core JavaScript concepts such as DOM manipulation, event handling, functions with parameters, and state management. It also incorporates basic UI/UX considerations such as visual feedback, color cues, and clean layout design to make the interface intuitive and responsive.
+## Table of contents
 
-Technologies used include HTML for structure, CSS for layout and visual styling, and JavaScript for application logic and interactivity.
+-   [Overview](#overview)
+    -   [About the Project](#about-the-project)
+    -   [The Challenge](#the-challenge)
+    -   [Stretch Goals](#stretch-goals)
+    -   [GIF Demo](#gif-demo)
+    -   [Live Demo](#live-web-app)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Useful resources](#useful-resources)
+-   [Contributing](#contributing)
+-   [Contact](#contact)
+-   [Support](#support)
+-   [Author](#author)
 
-Through this project, I practiced structuring JavaScript functions, reducing repetitive code using reusable logic, and building an interactive user interface that responds dynamically to user input.
+## Overview
 
-Skills demonstrated in this project include:
+### About the Project
 
-JavaScript fundamentals
+This project was built to strengthen my understanding of JavaScript fundamentals while applying frontend development concepts to create a functional and visually intuitive application.
 
-DOM manipulation
+Rather than simply displaying scores, the focus was on building a more engaging experience through real-time updates, dynamic UI feedback, reusable logic, and clean interaction patterns.
 
-Event-driven programming
+This project represents an important milestone in my software engineering journey, marking one of my first fully independent JavaScript applications built completely from scratch.
 
-Function design and parameters
+### The challenge
 
-UI/UX feedback design
+- Build the application completely from scratch
+- Make all buttons function according to its expected feature
+- Update scores dynamically in real time
 
-Frontend project structuring
+### Stretch Goals
 
-This project marks an early milestone in my journey through the Scrimba Full-Stack Developer Path and represents my first solo JavaScript application built completely from scratch.
+- Add a "New Game" button
+- Dynamic score updates for Home and Away teams
+- Visual indication of the leading team
+- Real-time UI updates using DOM manipulation
+- Interactive buttons for score control
+- Create an engaging user experience using visual feedback
+
+### GIF Demo
+
+<img src="./images/app-demo.gif" alt="GIF demonstration of the app">
+
+### Live Demo
+
+👉 [View Live Project](https://scoreboardsport.netlify.app/)
+
+## Overview
+
+### Built with
+
+- HTML5 : Semantic structure and layout
+- CSS3 : Styling, responsiveness, and visual hierarchy
+- JavaScript (ES6+) : Functionality, DOM manipulation, and application logic
+- Figma : UI planning and design structure
+- Git & GitHub : Version control and project management
+
+### What I learned
+
+Through this project, I strengthened my understanding of:
+
+- DOM Manipulation for dynamically updating UI elements
+- Event Handling to trigger score changes through user interaction
+- Functions with Parameters for cleaner and more scalable logic
+- State Management Fundamentals for tracking and updating scores dynamically
+- UI/UX Thinking by using color cues and feedback to improve usability
+
+## Useful Resources
+Some resources that helped during development:
+
+- Scrimba Full-Stack Developer Path — hands-on learning and project-based practice
+- MDN Web Docs — JavaScript and DOM documentation
+- Stack Overflow - Javascript code examples to test and comprehend concepts
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome.
+Feel free to fork this repository and submit a pull request.
+
+## Support
+
+If you found this project useful or interesting, consider giving it a star ⭐ on GitHub.
+It helps support my growth as a developer and makes the project easier for others to discover.
+
+## Contact
+
+- GitHub: https://github.com/AkaninyeneEssien
+- LinkedIn: https://www.linkedin.com/in/akaninyene/
